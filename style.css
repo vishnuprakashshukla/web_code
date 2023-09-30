@@ -1,0 +1,15 @@
+/* style.css */
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(134, 21, 40);
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: rgb(45, 170, 122);
+}
+
+p {
+    color: rgb(21, 51, 61);
+}
